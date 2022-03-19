@@ -61,5 +61,5 @@
 <br>
 
 * visualize_boxes_and_labels_on_image_array_only_filtered_classes 함수를 사용하여 하나의 객체만 인식
-* Pre-Training Data 사용
+* Pre-Training Data 사용하여 학습 시간을 줄임
 * Tensorflow Object Detection 사용
